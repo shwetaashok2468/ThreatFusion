@@ -178,3 +178,6 @@ Cross-references findings across sources to surface:
 | Frontend | React 18, Tailwind CSS v4, Vite |
 | AI       | Google Gemini 1.5 Flash       |
 | APIs     | VirusTotal v3, URLScan.io v1  |
+
+
+<img width="3024" height="3086" alt="image" src="https://github.com/user-attachments/assets/5191a688-c3c2-4466-9812-29c2eee616ec" />
